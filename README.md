@@ -44,8 +44,8 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelazizMaher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelazizMaher&radius=2&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="217" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefFayad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefFayad&radius=2&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="217" alt="activity-graph graph"  />
 </div>
 
 
