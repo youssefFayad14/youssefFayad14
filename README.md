@@ -12,7 +12,7 @@
 
 🔭 I’m an Android Developer focusing on Jetpack Compose and Kotlin
 
-🌱 I’m currently Training on ITI
+🌱 I’m currently Training in ITI
 
 🚀 Exploring backend development with Retrofit and Room
 
